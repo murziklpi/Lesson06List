@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ListApplications</string>
+    <string name="news_list">Список новостей</string>
 </resources>

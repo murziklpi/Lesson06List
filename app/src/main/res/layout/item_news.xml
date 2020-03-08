@@ -37,22 +37,5 @@
         app:layout_constraintTop_toBottomOf="@id/titleTv"
         tools:text="Подзаголовок" />
 
-    <Button
-        android:id="@+id/addBtn"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Добавить"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
-
-    <Button
-
-        android:id="@+id/removeBtn"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Удалить"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>
